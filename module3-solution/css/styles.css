@@ -1,3 +1,22 @@
+
+.navbar-default {
+    border-color: #000000;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #000000;
+    color: #000000;
+}
+
+.navbar-default .navbar-toggle:hover{
+    border-color: #ddd;
+}
+
+.navbar-default .navbar-toggle:focus{
+    border-color: #ddd;
+}
+
 .custom-ul li {
     text-align: center;
     border: 1px solid black;
