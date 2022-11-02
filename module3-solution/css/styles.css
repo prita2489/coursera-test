@@ -1,0 +1,27 @@
+.custom-ul li {
+    text-align: center;
+    border: 1px solid black;
+}
+section {
+    background-color: gray;
+    padding: 5px;
+}
+.content {
+    border: none;    
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px;
+    height: 150px;
+    overflow: auto;
+    height: 700px;
+}
+
+.content a{
+    font-weight: 700;
+}
+
+@media (max-width: 1200px) {
+    .margin-md-sm {
+        margin-top: 20px;
+    }
+}
+    
