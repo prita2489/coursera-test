@@ -16,7 +16,15 @@
 .navbar-default .navbar-toggle:focus{
     border-color: #ddd;
 }
-
+.navbar-default .navbar-brand {
+    color: #000000;
+    font-weight: 700;
+    font-size: 25px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
 .custom-ul {
     margin-top: 0px;
 }
